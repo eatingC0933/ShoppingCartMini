@@ -66,3 +66,7 @@ public class ShoppingCartMiniTest {
         assertEquals(vitaminD, items.get(4));
     }
 }
+package se.yitingchang;
+
+public class ShoppingCartMiniTest {
+}
