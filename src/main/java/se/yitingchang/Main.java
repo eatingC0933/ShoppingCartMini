@@ -8,4 +8,7 @@ public class Main {
         System.out.println("Conflicting method in develop branch");
 
     }
+    public void featureMethod() {
+        System.out.println("Feature method in conflicting-feature branch");
+    }
 }
